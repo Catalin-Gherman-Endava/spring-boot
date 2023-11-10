@@ -6,7 +6,7 @@ This is a basic Spring Boot application that serves as a starting point for your
 
 Before you begin, ensure you have met the following requirements:
 
-- Java Development Kit (JDK) installed (version X.X or higher)
+- Java Development Kit (JDK) installed (version 17 or higher)
 - Maven build tool installed
 - Your favorite Integrated Development Environment (IDE)
 
